@@ -1,0 +1,3 @@
+[submodule "demoFiori"]
+	path = demoFiori
+	url = https://github.com/macarenaEntelgy/demoFiori.git
